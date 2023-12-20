@@ -62,7 +62,7 @@ Once you have finished working on your application, deploy it on one of the free
 Send the link to
 
 - support@mamboschicken.co.zw
-- hr@mamboschicken.co.zw
+- admin@mamboschicken.co.zw
 
 ---
 
