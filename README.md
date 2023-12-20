@@ -18,19 +18,19 @@ We look forward to hearing from you soon! 🤞
 
 ## Software Developer Test
 
-This is a take-home test that requires you to deliver a working prototype of a Online Ordering Platform using React.js. Below are some instructions and guidelines for the test:
+This is a take-home test that requires you to deliver a working prototype of an Online Ordering Platform using React.js. Below are some instructions and guidelines for the test:
 
 1. **Duration**: The test should take 48 hours to complete, allowing candidates to demonstrate their skills and commitment to the project.
 
-2. **Requirements**: The prototype should be a multi-page web / mobile application built using React.js, showcasing the candidate's understanding of web development technologies and their ability to work with a popular JavaScript framework.
+2. **Requirements**: The prototype should be a multi-page web / mobile application built using React.js, showcasing your understanding of web development technologies and your ability to work with a popular JavaScript framework.
 
-3. **Evaluation**: The candidate should be evaluated on their ability to learn and work with a new technology stack, as well as their problem-solving and communication skills.
+3. **Evaluation**: As a candidate, you should be evaluated on your ability to learn and work with a new technology stack, as well as your problem-solving and communication skills.
 
 4. **Assessment**: After the test, you can assess the candidates based on the following criteria:
    - How well they followed the instructions and met the requirements.
-   - The quality of their code and the design of their application.
-   - Their ability to learn and work with a new technology stack, such as React.js.
-   - Their problem-solving and communication skills.
+   - The quality of your code and the design of your application.
+   - Your ability to learn and work with a new technology stack, such as React.js.
+   - Your problem-solving and communication skills.
    - Planning, ideas, mood board, colour pallet, sketches, elements etc
    - Correct use of data structures and algorithms
    - Aesthetic design
@@ -39,9 +39,7 @@ This is a take-home test that requires you to deliver a working prototype of a O
    - Provide design sketches for the UI
    - Generate UML diagrams for your code implementation
 
-5. **Alternative Test**: If you prefer a more interactive and engaging test, you can use CodinGame's Online Ordering Platform test, which simulates a real e-commerce environment and requires candidates to build an order form and a checkout page. This test takes 45 minutes to complete and can be customized according to your needs.
 
-Remember to provide clear instructions and any necessary resources, such as a Figma file with the project's initial mockups, UML Diagrams and a database with products, categories, and orders. This will help candidates understand the project requirements and deliver a high-quality prototype.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
