@@ -14,9 +14,9 @@ We look forward to hearing from you soon! 🤞
 
 ---
 
-## OBJECTIVE
+## INSTRUCTIONS
 
-## Instructions for a Software Developer Test
+## Software Developer Test
 
 To test prospective candidates for a software engineering position, you can give them a take-home test that requires them to deliver a working prototype of a Online Ordering Platform using React.js. Here are some instructions and guidelines for the test:
 
