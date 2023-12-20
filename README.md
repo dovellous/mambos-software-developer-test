@@ -49,11 +49,7 @@ Your solution must use
 
 Once you have finished working on your application, deploy it on free platforms and provide us with a link.
 
-## GRADING
-
-Your work will be graded using the following criteria
-
-
+---
 
 ## Table of Contents
 
