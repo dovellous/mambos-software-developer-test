@@ -9,7 +9,7 @@ Prepared by Douglas Maposa
 
 To test prospective candidates for a software engineering position, you can give them a take-home test that requires them to deliver a working prototype of a Online Ordering Platform using React.js. Here are some instructions and guidelines for the test:
 
-1. **Duration**: The test should take 4 days to complete, allowing candidates to demonstrate their skills and commitment to the project.
+1. **Duration**: The test should take 48hours to complete, allowing candidates to demonstrate their skills and commitment to the project.
 
 2. **Requirements**: The prototype should be a multi-page web / mobile application built using React.js, showcasing the candidate's understanding of web development technologies and their ability to work with a popular JavaScript framework.
 
@@ -20,12 +20,12 @@ To test prospective candidates for a software engineering position, you can give
    - The quality of their code and the design of their application.
    - Their ability to learn and work with a new technology stack, such as React.js.
    - Their problem-solving and communication skills.
-   - Planning, ideas, mood board, color pallet, sketches, elements etc
-   - Correct use of data structures and algorithim
+   - Planning, ideas, mood board, colour pallet, sketches, elements etc
+   - Correct use of data structures and algorithms
    - Aesthetic design
    - Functionality
    - Unit Tests
-   - Provide design sketched for the UI
+   - Provide design sketches for the UI
    - Generate UML diagrams for your code implementation
 
 5. **Alternative Test**: If you prefer a more interactive and engaging test, you can use CodinGame's Online Ordering Platform test, which simulates a real e-commerce environment and requires candidates to build an order form and a checkout page. This test takes 45 minutes to complete and can be customized according to your needs.
