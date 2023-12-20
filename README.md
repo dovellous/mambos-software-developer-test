@@ -1,7 +1,46 @@
+## MAMBO'S ONLINE ORDERING APPLICATION
+
+### SOFTWARE DEVELOPER : TAKE HOME TEST
+Prepared by Douglas Maposa
+
+## OBJECTIVE
+
+## Instructions for a Software Developer Test
+
+To test prospective candidates for a software engineering position, you can give them a take-home test that requires them to deliver a working prototype of a Online Ordering Platform using React.js. Here are some instructions and guidelines for the test:
+
+1. **Duration**: The test should take 4 days to complete, allowing candidates to demonstrate their skills and commitment to the project.
+
+2. **Requirements**: The prototype should be a single-page web application built using React.js, showcasing the candidate's understanding of web development technologies and their ability to work with a popular JavaScript framework.
+
+3. **Evaluation**: The candidate should be evaluated on their ability to learn and work with a new technology stack, as well as their problem-solving and communication skills.
+
+4. **Assessment**: After the test, you can assess the candidates based on the following criteria:
+   - How well they followed the instructions and met the requirements.
+   - The quality of their code and the design of their application.
+   - Their ability to learn and work with a new technology stack, such as React.js.
+   - Their problem-solving and communication skills.
+
+5. **Alternative Test**: If you prefer a more interactive and engaging test, you can use CodinGame's Online Ordering Platform test, which simulates a real e-commerce environment and requires candidates to build an order form and a checkout page. This test takes 45 minutes to complete and can be customized according to your needs.
+
+Remember to provide clear instructions and any necessary resources, such as a Figma file with the project's initial mockups, UML Diagrams and a database with products, categories, and orders. This will help candidates understand the project requirements and deliver a high-quality prototype.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md).
+
+## GRADING
+
+Your work will be graded using the following criteria
+
+- Planning , ideas, mood board, color pallet, sketches, elements etc
+- Correct use of data structures and algorithim
+- Aesthetic design
+- Functionality
+- Unit Tests
+- Provide design sketched for the UI
+- Generate UML diagrams for your code implementation
 
 ## Table of Contents
 
