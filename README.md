@@ -1,7 +1,18 @@
 ## MAMBO'S ONLINE ORDERING APPLICATION
 
-### SOFTWARE DEVELOPER : TAKE HOME TEST
+#### SOFTWARE DEVELOPER : TAKE HOME TEST
 Prepared by Douglas Maposa
+
+---
+🎉 Congratulations! 🎉 You have been shortlisted as a software engineer for Mambo’s Chicken! 🐔🍗
+
+We are thrilled to announce the second stage and can’t wait to see what you bring to the table. 🤩
+
+Please take a moment to read the following sections carefully. They contain important information that will help you prepare for the next steps in the process. 📝
+
+We look forward to hearing from you soon! 🤞
+
+---
 
 ## OBJECTIVE
 
@@ -47,7 +58,11 @@ Your solution must use
 
 ## DELIVERY
 
-Once you have finished working on your application, deploy it on free platforms and provide us with a link.
+Once you have finished working on your application, deploy it on one of the free platforms and provide us with a link.
+Send the link to
+
+- support@mamboschicken.co.zw
+- hr@mamboschicken.co.zw
 
 ---
 
